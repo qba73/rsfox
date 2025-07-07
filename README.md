@@ -1,4 +1,4 @@
-# rs-fox-sdk
+# rsfox
 
 Rust SDK for Fox Home Automation System manufactured by [F&F company](https://www.fif.com.pl/en/). 
 
