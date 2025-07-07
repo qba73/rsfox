@@ -1,3 +1,5 @@
+[![Rust](https://github.com/qba73/rsfox/actions/workflows/rust.yml/badge.svg)](https://github.com/qba73/rsfox/actions/workflows/rust.yml)
+
 # rsfox
 
 Rust SDK for Fox Home Automation System manufactured by [F&F company](https://www.fif.com.pl/en/). 
