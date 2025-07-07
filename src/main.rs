@@ -1,5 +1,5 @@
 use rsfox::print_intro;
 
 fn main() {
-    print_intro();
+    println!("{}", print_intro());
 }
