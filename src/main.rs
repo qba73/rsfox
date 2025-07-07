@@ -1,3 +1,5 @@
+use rsfox::print_intro;
+
 fn main() {
-    println!("Hello, world!");
+    print_intro();
 }
